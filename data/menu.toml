@@ -1,0 +1,14 @@
+[[entries]]
+title = """
+<a href='https://t.me/jraboba'>Telegram</a>
+<a href='https://t.me/jraboba_chat'>Чат</a>
+<a href='https://t.me/laontme'>Автор</a>
+<a href='mailto:hi@aboba.world'>Email</a>
+<a href='index.xml'>RSS</a>
+"""
+
+[[entries]]
+title = "Посты"
+
+  [entries.post_list]
+  show_more = true
